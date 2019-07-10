@@ -1,1 +1,1 @@
-# centos664
+# centos6x64samecert
